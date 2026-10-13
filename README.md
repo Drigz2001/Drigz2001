@@ -25,7 +25,7 @@ Estudante focado em construir sistemas robustos e experiências interativas. Atu
 
 ### 🌱 No que estou trabalhando
 
-* 📚 Finalizando o Bacharelado em **Ciência da Computação** (7º sem).
+* 📚 Finalizando o Bacharelado em **Ciência da Computação** (8º sem).
 * 🕹️ Aprimorando conhecimentos em **Unity 3D** e arquitetura C#.
 * ⚙️ Estudando **Arquitetura e Infraestrutura** de softwares Java.
 
